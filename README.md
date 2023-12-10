@@ -33,6 +33,18 @@ Evaluation: The model's performance is rigorously evaluated using various metric
 # [Demo Video](https://youtu.be/OZKjBjbqQAg?feature=shared)
 ![image](https://github.com/PrimWong/LayoutLMQA/assets/145421337/f5131435-e9c6-4ec8-8c34-6ae19b9e6c30)
 
+# References
+Document Question Answering. (n.d.). Document Question Answering. https://huggingface.co/docs/transformers/v4.29.0/tasks/document_question_answering
+FUNSD. (n.d.). FUNSD. https://guillaumejaume.github.io/FUNSD/
+Huang, Y., Lv, T., Cui, L., Lu, Y., & Wei, F. (2022, April 18). LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking. arXiv.org. https://arxiv.org/abs/2204.08387v3
+Mathew, M., Karatzas, D., & Jawahar, C. V. (2020, July 1). DocVQA: A Dataset for VQA on Document Images. arXiv.org. https://arxiv.org/abs/2007.00398v3
+Mathew, M., Karatzas, D., & Jawahar, C. V. (2020, July 1). DocVQA: A Dataset for VQA on Document Images. arXiv.org. https://arxiv.org/abs/2007.00398v3
+P. (n.d.). LayoutLMQA/layout_LLM_document_question_answering.ipynb at main · PrimWong/LayoutLMQA. GitHub. https://github.com/PrimWong/LayoutLMQA/blob/main/layout_LLM_document_question_answering.ipynb
+The Stanford Question Answering Dataset. (2021, June 4). The Stanford Question Answering Dataset. https://rajpurkar.github.io/SQuAD-explorer/
+Xu, Y., Li, M., Cui, L., Huang, S., Wei, F., & Zhou, M. (2019, December 31). LayoutLM: Pre-training of Text and Layout for Document Image Understanding. arXiv.org. https://doi.org/10.1145/3394486.3403172
+Xu, Y., Xu, Y., Lv, T., Cui, L., Wei, F., Wang, G., Lu, Y., Florencio, D., Zhang, C., Che, W., Zhang, M., & Zhou, L. (2020, December 29). LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding. arXiv.org. https://arxiv.org/abs/2012.14740v4
+
+
 
 
 
