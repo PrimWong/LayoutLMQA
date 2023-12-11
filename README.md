@@ -5,7 +5,8 @@ Empowering youth in financial matters is crucial for their long-term financial w
 The LayoutLMQA repository consists of notebooks to train document AI and visual question answering.
 
 
-![image](https://github.com/PrimWong/LayoutLMQA/assets/145421337/86a7c401-c8d2-4f91-ad89-bde9a081c331)
+![image](https://github.com/PrimWong/LayoutLMQA/assets/145421337/5d492803-a9fd-4fdc-ab37-3c30186347cf)
+
 
 # Datasets
 1. [FUNSD (Form Understanding in Noisy Scanned Documents)](https://guillaumejaume.github.io/FUNSD/)
