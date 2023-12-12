@@ -1,8 +1,9 @@
 # Undergraduate R and D Project | FYN Financing Youth Now
 # Team Member
-Bhumin Sabsrisupachai (Pooh)
 
 Rajasurang Wongkrasaemongkol (Prim)
+
+Bhumin Sabsrisupachai (Pooh)
 
 Lalida Krairit (Lala)
 
